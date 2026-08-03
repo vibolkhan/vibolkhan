@@ -1,11 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" width="100%" alt="Banner"/>
+  <img src="./Banner1.png" width="100%" alt="Banner"/>
 </p>
 
 <!-- Profile Picture -->
 <p align="center">
-  <img src="YOUR_PROFILE_PICTURE_URL" width="180" style="border-radius:50%;" alt="Profile Picture"/>
+  <img src="./Profile.png" width="180" style="border-radius:50%;" alt="Profile Picture"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Vibol Khan</h1>
