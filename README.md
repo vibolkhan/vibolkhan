@@ -44,7 +44,7 @@
 ```javascript
 const Vibol = {
     location: "Cambodia",
-    role: "Frontend Developer",
+    role: "Software Engineer",
     languages: ["JavaScript", "TypeScript"],
     frontend: ["React", "Vue", "HTML5", "CSS3"],
     backend: ["Node.js", "Express"],
